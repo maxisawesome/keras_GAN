@@ -1,5 +1,8 @@
 An implementation of a DCGAN in Keras. Not too many fancy tricks, uses Spectral Normalization and Leaky Relu. 
 
+### Training
+To train, run main.py. I have not provided any pretrained models at this time. 
+
 ### Results
 
 Here's a gif of the network overfit to a single image of a cloud.
