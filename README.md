@@ -7,6 +7,7 @@ Here's a gif of the network overfit to a single image of a cloud.
 ![Here's a gif](https://github.com/maxisawesome/keras_GAN/blob/master/imgs/gan.gif?raw=true)
 
 Some other images of clouds: 
+
 ![cloud1](https://github.com/maxisawesome/keras_GAN/blob/master/imgs/epoch_521.png?raw=true)
 ![cloud2](https://github.com/maxisawesome/keras_GAN/blob/master/imgs/epoch_514.png?raw=true)
 
